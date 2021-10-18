@@ -1,0 +1,2 @@
+PAYME
+I've chosen to make a website application for my project. Users of this application would be able to send and receive money from anywhere in the world with minimal transaction fees. They can use this application to pay a number of expenses(bills). Every transaction will be encrypted and saved to the server.
