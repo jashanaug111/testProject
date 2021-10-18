@@ -1,3 +1,6 @@
+Name: Jashandeep Singh Sidhu
+Student Id: 100411731
+
 PAYME
 
 I've chosen to make a website application for my project. 
